@@ -4,183 +4,183 @@
       "id": 1,
       "img": "",
       "title": "pagination",
-      "description": "",
+      "description": "Pagination is a react app style with TailwindCss",
       "category": "react",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Pagination",
+      "demo": "https://profile-pagination.netlify.app/"
     },
     {
       "id": 2,
       "img": "",
       "title": "markdown",
-      "description": "",
+      "description": "A markdown application built with ReactJs and TailwindCSS",
       "category": "react",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Markdown",
+      "demo": "https://markdown-make.netlify.app/"
     },
     {
       "id": 3,
       "img": "",
       "title": "cocktails",
-      "description": "",
+      "description": "cocktail is a small application for selecting varieties of cocktails which is built with react and tailwindCss",
       "category": "react",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Cocktails",
+      "demo": "https://cocktails-shoping.netlify.app/"
     },
     {
       "id": 4,
       "img": "",
       "title": "cart",
-      "description": "",
+      "description": "cart is a small react project which mimick carting on an e commerce store, built with react and tailwindCss",
       "category": "react",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Cart",
+      "demo": "https://cart-cart-page.netlify.app/"
     },
     {
       "id": 5,
       "img": "",
       "title": "sidebar modal",
-      "description": "",
+      "description": "side bar modal is a small reactJs project to create a nav bar which is easy to use and mobile friendly, styled with TailwindCss",
       "category": "react",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Sidebar-Modal",
+      "demo": "https://side-bar-modal-page.netlify.app/"
     },
     {
       "id": 6,
       "img": "",
       "title": "nav bar",
-      "description": "",
+      "description": "a mobile first navigation bar which is responsive and easy to navigate built with reactJs",
       "category": "react",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/NavBar",
+      "demo": "https://nav-bar-react.netlify.app/"
     },
     {
       "id": 7,
       "img": "",
-      "title": "grocery bud",
-      "description": "",
+      "title": "grocery bud is a todo list but in this case for shopping groceries, built with reactJS",
+      "description": "grocery bud ",
       "category": "react",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Grocery-Bud",
+      "demo": "https://grocery-bud-page.netlify.app/"
     },
     {
       "id": 8,
       "img": "",
       "title": "lorem-ipsum generator",
-      "description": "",
+      "description": "a lorem-ipsum generator to fill in on a web page as a dummy input, built with reactJS",
       "category": "react",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Lorem-Ipsum-Generator",
+      "demo": "https://lorem-ips-generator.netlify.app/"
     },
     {
       "id": 9,
       "img": "",
       "title": "slider",
-      "description": "",
+      "description": "a simple image slider built with reactJS",
       "category": "react",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Slider",
+      "demo": "https://simple-profile-slider.netlify.app/"
     },
     {
       "id": 10,
       "img": "",
       "title": "tabs",
-      "description": "",
+      "description": "is a full responsive one page built with react to indent the profiles of staff of a company",
       "category": "react",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Tabs",
+      "demo": "https://using-tabs.netlify.app/"
     },
     {
       "id": 11,
       "img": "",
       "title": "menu",
-      "description": "",
+      "description": "menu is an app with varieties of meal sold in a cafe, which allow users to select there choice of meal, built with reactJS",
       "category": "react",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Menu",
+      "demo": "https://menu-lists.netlify.app/"
     },
     {
       "id": 12,
       "img": "",
       "title": "accordion",
-      "description": "",
+      "description": "a mini Q&A app built with reactJS",
       "category": "react",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Accordion",
+      "demo": "https://accordion-queans.netlify.app/"
     },
     {
       "id": 13,
       "img": "",
       "title": "interactive comment section",
-      "description": "",
+      "description": "an interactive comment section built with HTML,CSS and vanilla Javascript",
       "category": "javascript",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Interactive-Comment-Section",
+      "demo": "https://mosgizy.github.io/Interactive-Comment-Section/"
     },
     {
       "id": 14,
       "img": "",
       "title": "e-commerce product page",
-      "description": "",
+      "description": " a resonsive e-commerce product page with the full functionalities built with HTML,CSS and vanila JS",
       "category": "landing page",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/E-Commerce-Product-Page",
+      "demo": "https://mosgizy.github.io/E-Commerce-Product-Page/"
     },
     {
       "id": 15,
       "img": "",
       "title": "simple calculator",
-      "description": "",
+      "description": "a simple calculator built with HTML,CSS and vanilla JS",
       "category": "javascript",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Simple-Calculator",
+      "demo": "https://mosgizy.github.io/Simple-Calculator/"
     },
     {
       "id": 16,
       "img": "",
       "title": "sunnyside",
-      "description": "",
+      "description": "sunnyside is a responsive landing page which is mobile friendly",
       "category": "landing page",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Sunnyside-Landing-Page",
+      "demo": "https://mosgizy.github.io/Sunnyside-Landing-Page/"
     },
     {
       "id": 17,
       "img": "",
       "title": "fylo dark theme",
-      "description": "",
+      "description": "fylo landing page is a mobile first approach and responsive landing page",
       "category": "landing page",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Fylo-Dark-Theme-Landing-Page",
+      "demo": "https://mosgizy.github.io/Fylo-Dark-Theme-Landing-Page/"
     },
     {
       "id": 18,
       "img": "",
       "title": "blog",
-      "description": "",
+      "description": "a simple responsive blog page with HTML and CSS",
       "category": "landing page",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Blog-Clone",
+      "demo": "https://mosgizy.github.io/Blog-Clone/"
     },
     {
       "id": 19,
       "img": "",
       "title": "crowd funding",
-      "description": "",
+      "description": "a responsive and interactive crowd funding page with HTML,CSS and Javascript ",
       "category": "landing page",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Crowd-Funding-Product-Page",
+      "demo": "https://mosgizy.github.io/Crowd-Funding-Product-Page/"
     },
     {
       "id": 20,
       "img": "",
       "title": "tour",
-      "description": "",
+      "description": "a simple react project",
       "category": "react",
-      "source": "",
-      "demo": ""
+      "source": "https://github.com/mosgizy/Tour",
+      "demo": "https://take-tour.netlify.app/"
     }
   ],
   "my_avartar": {},
-  "images": []
+  "images": {}
 }
