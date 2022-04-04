@@ -103,7 +103,7 @@
       "id": 12,
       "img": "",
       "title": "accordion",
-      "description": "a mini Q&A app built with reactJS",
+      "description": "a mini faq app built with reactJS",
       "category": "react",
       "source": "https://github.com/mosgizy/Accordion",
       "demo": "https://accordion-queans.netlify.app/"
