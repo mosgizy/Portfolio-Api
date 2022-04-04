@@ -57,8 +57,8 @@
     {
       "id": 7,
       "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/grocey%20bud.webp",
-      "title": "grocery bud is a todo list but in this case for shopping groceries, built with reactJS",
-      "description": "grocery bud ",
+      "title": "grocery bud",
+      "description": "grocery bud is a todo list but in this case for shopping groceries, built with reactJS",
       "category": "react",
       "source": "https://github.com/mosgizy/Grocery-Bud",
       "demo": "https://grocery-bud-page.netlify.app/"
