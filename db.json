@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": 1,
-      "img": "",
+      "img": "https://github.com/mosgizy/Portfolio-Api/blob/main/assets/pagination.webp?raw=true",
       "title": "pagination",
       "description": "Pagination is a react app style with TailwindCss",
       "category": "react",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/markdown.webp",
       "title": "markdown",
       "description": "A markdown application built with ReactJs and TailwindCSS",
       "category": "react",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/cocktail.webp",
       "title": "cocktails",
       "description": "cocktail is a small application for selecting varieties of cocktails which is built with react and tailwindCss",
       "category": "react",
