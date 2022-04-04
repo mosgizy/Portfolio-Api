@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/cart.webp",
       "title": "cart",
       "description": "cart is a small react project which mimick carting on an e commerce store, built with react and tailwindCss",
       "category": "react",
@@ -38,7 +38,7 @@
     },
     {
       "id": 5,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/side%20bar%20modal.webp",
       "title": "sidebar modal",
       "description": "side bar modal is a small reactJs project to create a nav bar which is easy to use and mobile friendly, styled with TailwindCss",
       "category": "react",
@@ -47,7 +47,7 @@
     },
     {
       "id": 6,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/nav%20bar.webp",
       "title": "nav bar",
       "description": "a mobile first navigation bar which is responsive and easy to navigate built with reactJs",
       "category": "react",
@@ -56,7 +56,7 @@
     },
     {
       "id": 7,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/grocey%20bud.webp",
       "title": "grocery bud is a todo list but in this case for shopping groceries, built with reactJS",
       "description": "grocery bud ",
       "category": "react",
@@ -65,7 +65,7 @@
     },
     {
       "id": 8,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/lorem-ipsum.webp",
       "title": "lorem-ipsum generator",
       "description": "a lorem-ipsum generator to fill in on a web page as a dummy input, built with reactJS",
       "category": "react",
@@ -74,7 +74,7 @@
     },
     {
       "id": 9,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/slider.webp",
       "title": "slider",
       "description": "a simple image slider built with reactJS",
       "category": "react",
@@ -83,7 +83,7 @@
     },
     {
       "id": 10,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/tab.webp",
       "title": "tabs",
       "description": "is a full responsive one page built with react to indent the profiles of staff of a company",
       "category": "react",
@@ -92,7 +92,7 @@
     },
     {
       "id": 11,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/menu.webp",
       "title": "menu",
       "description": "menu is an app with varieties of meal sold in a cafe, which allow users to select there choice of meal, built with reactJS",
       "category": "react",
@@ -101,7 +101,7 @@
     },
     {
       "id": 12,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/accordion.webp",
       "title": "accordion",
       "description": "a mini faq app built with reactJS",
       "category": "react",
@@ -110,7 +110,7 @@
     },
     {
       "id": 13,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/interactive%20comment.webp",
       "title": "interactive comment section",
       "description": "an interactive comment section built with HTML,CSS and vanilla Javascript",
       "category": "javascript",
@@ -119,7 +119,7 @@
     },
     {
       "id": 14,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/e-commerce%20product%20page.webp",
       "title": "e-commerce product page",
       "description": " a resonsive e-commerce product page with the full functionalities built with HTML,CSS and vanila JS",
       "category": "landing page",
@@ -128,7 +128,7 @@
     },
     {
       "id": 15,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/simple%20calculator.webp",
       "title": "simple calculator",
       "description": "a simple calculator built with HTML,CSS and vanilla JS",
       "category": "javascript",
@@ -137,7 +137,7 @@
     },
     {
       "id": 16,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/sunnyside.webp",
       "title": "sunnyside",
       "description": "sunnyside is a responsive landing page which is mobile friendly",
       "category": "landing page",
@@ -146,7 +146,7 @@
     },
     {
       "id": 17,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/fylo.webp",
       "title": "fylo dark theme",
       "description": "fylo landing page is a mobile first approach and responsive landing page",
       "category": "landing page",
@@ -155,7 +155,7 @@
     },
     {
       "id": 18,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/blog.webp",
       "title": "blog",
       "description": "a simple responsive blog page with HTML and CSS",
       "category": "landing page",
@@ -164,7 +164,7 @@
     },
     {
       "id": 19,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/crowd%20funding.webp",
       "title": "crowd funding",
       "description": "a responsive and interactive crowd funding page with HTML,CSS and Javascript ",
       "category": "landing page",
@@ -173,7 +173,7 @@
     },
     {
       "id": 20,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/tour.webp",
       "title": "tour",
       "description": "a simple react project",
       "category": "react",
