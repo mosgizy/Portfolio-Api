@@ -181,6 +181,8 @@
       "demo": "https://take-tour.netlify.app/"
     }
   ],
-  "my_avartar": {},
-  "images": {}
+  "my_avartar": {
+    "image":""
+  },
+  "skills": {}
 }
