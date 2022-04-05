@@ -182,14 +182,14 @@
     }
   ],
   "avatar": {
-    "image":"https://github.com/mosgizy/Portfolio-Api/blob/main/assets/avartar.jpg?raw=true"
+    "image": "https://github.com/mosgizy/Portfolio-Api/blob/main/assets/avartar.jpg?raw=true"
   },
   "skills": {
-    "html":"https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/html.webp",
-    "css":"https://github.com/mosgizy/Portfolio-Api/blob/main/assets/css.png?raw=true",
-    "javascript":"https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/javascript.webp",
-    "react":"https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/react.webp",
-    "tailwind":"https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/tailwind.webp",
-    "git":""
+    "html": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/html.webp",
+    "css": "https://github.com/mosgizy/Portfolio-Api/blob/main/assets/css.png?raw=true",
+    "javascript": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/javascript.webp",
+    "react": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/react.webp",
+    "tailwind": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/tailwind.webp",
+    "git": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/git.webp"
   }
 }
