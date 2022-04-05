@@ -189,6 +189,7 @@
     "css":"https://github.com/mosgizy/Portfolio-Api/blob/main/assets/css.png?raw=true",
     "javascript":"https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/javascript.webp",
     "react":"https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/react.webp",
-    "tailwind":"https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/tailwind.webp"
+    "tailwind":"https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/tailwind.webp",
+    "git":""
   }
 }
