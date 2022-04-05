@@ -182,7 +182,13 @@
     }
   ],
   "my_avartar": {
-    "image":""
+    "image":"https://github.com/mosgizy/Portfolio-Api/blob/main/assets/avartar.jpg?raw=true"
   },
-  "skills": {}
+  "skills": {
+    "html":"https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/html.webp",
+    "css":"https://github.com/mosgizy/Portfolio-Api/blob/main/assets/css.png?raw=true",
+    "javascript":"https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/javascript.webp",
+    "react":"https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/react.webp",
+    "tailwind":"https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/tailwind.webp"
+  }
 }
