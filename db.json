@@ -73,15 +73,6 @@
       "demo": "https://menu-lists.netlify.app/"
     },
     {
-      "id": 12,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/accordion.webp",
-      "title": "accordion",
-      "description": "a mini faq app built with reactJS",
-      "category": "react",
-      "source": "https://github.com/mosgizy/Accordion",
-      "demo": "https://accordion-queans.netlify.app/"
-    },
-    {
       "id": 13,
       "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/interactive%20comment.webp",
       "title": "interactive comment section",
