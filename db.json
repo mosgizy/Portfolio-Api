@@ -37,24 +37,6 @@
       "demo": "https://cart-cart-page.netlify.app/"
     },
     {
-      "id": 5,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/side%20bar%20modal.webp",
-      "title": "sidebar modal",
-      "description": "side bar modal is a small reactJs project to create a nav bar which is easy to use and mobile friendly, styled with TailwindCss",
-      "category": "react",
-      "source": "https://github.com/mosgizy/Sidebar-Modal",
-      "demo": "https://side-bar-modal-page.netlify.app/"
-    },
-    {
-      "id": 6,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/nav%20bar.webp",
-      "title": "nav bar",
-      "description": "a mobile first navigation bar which is responsive and easy to navigate built with reactJs",
-      "category": "react",
-      "source": "https://github.com/mosgizy/NavBar",
-      "demo": "https://nav-bar-react.netlify.app/"
-    },
-    {
       "id": 7,
       "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/grocey%20bud.webp",
       "title": "grocery bud",
@@ -71,15 +53,6 @@
       "category": "react",
       "source": "https://github.com/mosgizy/Lorem-Ipsum-Generator",
       "demo": "https://lorem-ips-generator.netlify.app/"
-    },
-    {
-      "id": 9,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/slider.webp",
-      "title": "slider",
-      "description": "a simple image slider built with reactJS",
-      "category": "react",
-      "source": "https://github.com/mosgizy/Slider",
-      "demo": "https://simple-profile-slider.netlify.app/"
     },
     {
       "id": 10,
