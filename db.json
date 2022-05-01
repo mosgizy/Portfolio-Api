@@ -155,5 +155,6 @@
     "react": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/react.webp",
     "tailwind": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/tailwind.webp",
     "git": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/git.webp"
-  }
+  },
+  "api_key":"TZARVgU4FQxaMRlCf"
 }
