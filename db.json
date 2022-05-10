@@ -137,15 +137,6 @@
     },
     {
       "id": 20,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/tour.webp",
-      "title": "tour",
-      "description": "a simple react project",
-      "category": "react",
-      "source": "https://github.com/mosgizy/Tour",
-      "demo": "https://take-tour.netlify.app/"
-    },
-          {
-      "id": 21,
       "img": "https://github.com/mosgizy/Portfolio-Api/blob/main/assets/quiz.jpeg?raw=true",
       "title": "quiz app",
       "description": "a simple quiz app for developers to test there skills with different languages",
