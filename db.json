@@ -46,33 +46,6 @@
       "demo": "https://grocery-bud-page.netlify.app/"
     },
     {
-      "id": 8,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/lorem-ipsum.webp",
-      "title": "lorem-ipsum generator",
-      "description": "a lorem-ipsum generator to fill in on a web page as a dummy input, built with reactJS",
-      "category": "react",
-      "source": "https://github.com/mosgizy/Lorem-Ipsum-Generator",
-      "demo": "https://lorem-ips-generator.netlify.app/"
-    },
-    {
-      "id": 10,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/tab.webp",
-      "title": "tabs",
-      "description": "is a full responsive one page built with react to indent the profiles of staff of a company",
-      "category": "react",
-      "source": "https://github.com/mosgizy/Tabs",
-      "demo": "https://using-tabs.netlify.app/"
-    },
-    {
-      "id": 11,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/menu.webp",
-      "title": "menu",
-      "description": "menu is an app with varieties of meal sold in a cafe, which allow users to select there choice of meal, built with reactJS",
-      "category": "react",
-      "source": "https://github.com/mosgizy/Menu",
-      "demo": "https://menu-lists.netlify.app/"
-    },
-    {
       "id": 13,
       "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/interactive%20comment.webp",
       "title": "interactive comment section",
@@ -125,15 +98,6 @@
       "category": "landing page",
       "source": "https://github.com/mosgizy/Blog-Clone",
       "demo": "https://mosgizy.github.io/Blog-Clone/"
-    },
-    {
-      "id": 19,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/crowd%20funding.webp",
-      "title": "crowd funding",
-      "description": "a responsive and interactive crowd funding page with HTML,CSS and Javascript ",
-      "category": "landing page",
-      "source": "https://github.com/mosgizy/Crowd-Funding-Product-Page",
-      "demo": "https://mosgizy.github.io/Crowd-Funding-Product-Page/"
     },
     {
       "id": 20,
