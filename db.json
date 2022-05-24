@@ -107,6 +107,15 @@
       "category": "react",
       "source": "https://github.com/mosgizy/Quiz-App",
       "demo": "https://dev-quiz-app.vercel.app"
+    },
+    {
+      "id": 21,
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/fabulous.jpg",
+      "title": "laundry service",
+      "description": "a single page laundry service to promote the business",
+      "category": "landing page",
+      "source": "https://github.com/mosgizy/Fabulous-Laundry",
+      "demo": "https://fabulous-laundry.vercel.app"
     }
   ],
   "avatar": {
