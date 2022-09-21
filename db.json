@@ -116,6 +116,15 @@
       "category": "landing page",
       "source": "https://github.com/mosgizy/Fabulous-Laundry",
       "demo": "https://fabulous-laundry.vercel.app"
+    },
+    {
+      "id": 22,
+      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/fabulous.jpg",
+      "title": "space tourism",
+      "description": "Space tourism multi-page website",
+      "category": "react",
+      "source": "https://github.com/mosgizy/space-tourism",
+      "demo": "https://space-tourism-two-azure.vercel.app"
     }
   ],
   "avatar": {
