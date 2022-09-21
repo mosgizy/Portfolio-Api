@@ -10,42 +10,6 @@
       "demo": "https://profile-pagination.netlify.app/"
     },
     {
-      "id": 2,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/markdown.webp",
-      "title": "markdown",
-      "description": "A markdown application built with ReactJs and TailwindCSS",
-      "category": "react",
-      "source": "https://github.com/mosgizy/Markdown",
-      "demo": "https://markdown-make.netlify.app/"
-    },
-    {
-      "id": 3,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/cocktail.webp",
-      "title": "cocktails",
-      "description": "cocktail is a small application for selecting varieties of cocktails which is built with react and tailwindCss",
-      "category": "react",
-      "source": "https://github.com/mosgizy/Cocktails",
-      "demo": "https://cocktails-shoping.netlify.app/"
-    },
-    {
-      "id": 4,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/cart.webp",
-      "title": "cart",
-      "description": "cart is a small react project which mimick carting on an e commerce store, built with react and tailwindCss",
-      "category": "react",
-      "source": "https://github.com/mosgizy/Cart",
-      "demo": "https://cart-cart-page.netlify.app/"
-    },
-    {
-      "id": 7,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/grocey%20bud.webp",
-      "title": "grocery bud",
-      "description": "grocery bud is a todo list but in this case for shopping groceries, built with reactJS",
-      "category": "react",
-      "source": "https://github.com/mosgizy/Grocery-Bud",
-      "demo": "https://grocery-bud-page.netlify.app/"
-    },
-    {
       "id": 13,
       "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/interactive%20comment.webp",
       "title": "interactive comment section",
@@ -64,15 +28,6 @@
       "demo": "https://mosgizy.github.io/E-Commerce-Product-Page/"
     },
     {
-      "id": 15,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/simple%20calculator.webp",
-      "title": "simple calculator",
-      "description": "a simple calculator built with HTML,CSS and vanilla JS",
-      "category": "javascript",
-      "source": "https://github.com/mosgizy/Simple-Calculator",
-      "demo": "https://mosgizy.github.io/Simple-Calculator/"
-    },
-    {
       "id": 16,
       "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/sunnyside.webp",
       "title": "sunnyside",
@@ -89,15 +44,6 @@
       "category": "landing page",
       "source": "https://github.com/mosgizy/Fylo-Dark-Theme-Landing-Page",
       "demo": "https://mosgizy.github.io/Fylo-Dark-Theme-Landing-Page/"
-    },
-    {
-      "id": 18,
-      "img": "https://raw.githubusercontent.com/mosgizy/Portfolio-Api/main/assets/blog.webp",
-      "title": "blog",
-      "description": "a simple responsive blog page with HTML and CSS",
-      "category": "landing page",
-      "source": "https://github.com/mosgizy/Blog-Clone",
-      "demo": "https://mosgizy.github.io/Blog-Clone/"
     },
     {
       "id": 20,
